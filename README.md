@@ -1,7 +1,7 @@
-# PLC Manager — Senior Dev C# WinForms Template
+# PLC Manager — WinForms Template
 
 > **Full-stack C# WinForms project** covering OOP, Multi-threading, TCP/IP Socket, RS-232,  
-> PLC protocol implementation (Mitsubishi SLMP, MC Protocol, Omron FINS/TCP),  
+> PLC protocol implementation (M SLMP, MC Protocol, Omron FINS/TCP),  
 > and Team Lead architecture patterns.
 
 ---
