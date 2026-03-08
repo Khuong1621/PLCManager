@@ -1,0 +1,17 @@
+C:\Users\Admin\Documents\CODE\PLCManager_SeniorDev\PLCManager\bin\Release\net8.0-windows\win-x64\PLCManager.exe
+C:\Users\Admin\Documents\CODE\PLCManager_SeniorDev\PLCManager\bin\Release\net8.0-windows\win-x64\PLCManager.deps.json
+C:\Users\Admin\Documents\CODE\PLCManager_SeniorDev\PLCManager\bin\Release\net8.0-windows\win-x64\PLCManager.runtimeconfig.json
+C:\Users\Admin\Documents\CODE\PLCManager_SeniorDev\PLCManager\bin\Release\net8.0-windows\win-x64\PLCManager.dll
+C:\Users\Admin\Documents\CODE\PLCManager_SeniorDev\PLCManager\bin\Release\net8.0-windows\win-x64\PLCManager.pdb
+C:\Users\Admin\Documents\CODE\PLCManager_SeniorDev\PLCManager\bin\Release\net8.0-windows\win-x64\System.IO.Ports.dll
+C:\Users\Admin\Documents\CODE\PLCManager_SeniorDev\PLCManager\obj\Release\net8.0-windows\win-x64\PLCManager.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\CODE\PLCManager_SeniorDev\PLCManager\obj\Release\net8.0-windows\win-x64\PLCManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\CODE\PLCManager_SeniorDev\PLCManager\obj\Release\net8.0-windows\win-x64\PLCManager.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\CODE\PLCManager_SeniorDev\PLCManager\obj\Release\net8.0-windows\win-x64\PLCManager.AssemblyInfo.cs
+C:\Users\Admin\Documents\CODE\PLCManager_SeniorDev\PLCManager\obj\Release\net8.0-windows\win-x64\PLCManager.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\CODE\PLCManager_SeniorDev\PLCManager\obj\Release\net8.0-windows\win-x64\PLCManager.csproj.Up2Date
+C:\Users\Admin\Documents\CODE\PLCManager_SeniorDev\PLCManager\obj\Release\net8.0-windows\win-x64\PLCManager.dll
+C:\Users\Admin\Documents\CODE\PLCManager_SeniorDev\PLCManager\obj\Release\net8.0-windows\win-x64\refint\PLCManager.dll
+C:\Users\Admin\Documents\CODE\PLCManager_SeniorDev\PLCManager\obj\Release\net8.0-windows\win-x64\PLCManager.pdb
+C:\Users\Admin\Documents\CODE\PLCManager_SeniorDev\PLCManager\obj\Release\net8.0-windows\win-x64\PLCManager.genruntimeconfig.cache
+C:\Users\Admin\Documents\CODE\PLCManager_SeniorDev\PLCManager\obj\Release\net8.0-windows\win-x64\ref\PLCManager.dll

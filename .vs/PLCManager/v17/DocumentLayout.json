@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\CODE\\PLCManager_SeniorDev\\PLCManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1066E64E-EE9B-4CB8-BD36-D3319B879BE0}|PLCManager.csproj|c:\\users\\admin\\documents\\code\\plcmanager_seniordev\\plcmanager\\ui\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1066E64E-EE9B-4CB8-BD36-D3319B879BE0}|PLCManager.csproj|solutionrelative:ui\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1066E64E-EE9B-4CB8-BD36-D3319B879BE0}|PLCManager.csproj|c:\\users\\admin\\documents\\code\\plcmanager_seniordev\\plcmanager\\services\\plcservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1066E64E-EE9B-4CB8-BD36-D3319B879BE0}|PLCManager.csproj|solutionrelative:services\\plcservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\CODE\\PLCManager_SeniorDev\\PLCManager\\UI\\Forms\\MainForm.cs",
+              "RelativeDocumentMoniker": "UI\\Forms\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\CODE\\PLCManager_SeniorDev\\PLCManager\\UI\\Forms\\MainForm.cs",
+              "RelativeToolTip": "UI\\Forms\\MainForm.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAIAwwDsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T17:50:00.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PLCServices.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\CODE\\PLCManager_SeniorDev\\PLCManager\\Services\\PLCServices.cs",
+              "RelativeDocumentMoniker": "Services\\PLCServices.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\CODE\\PLCManager_SeniorDev\\PLCManager\\Services\\PLCServices.cs",
+              "RelativeToolTip": "Services\\PLCServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T17:49:13.096Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
